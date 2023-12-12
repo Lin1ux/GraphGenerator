@@ -1,0 +1,11 @@
+- GenerateDegree.cpp ----> Generuje ciąg stopni wierzchołków grafów
+- GenerateGraph.cpp -----> Generuje wszystkie grafy spełniające kryteria
+- GenerateGraph2.cpp -----> Zachłannie generuje wszystkie grafy spełniające kryteria
+- GenerateGraphRand.cpp -----> Zachłannie ulosowiony generuje wszystkie grafy spełniające kryteria
+- GenerateOneGraph.cpp ------>  Generuje pierwszy zznaleziony graf spełniający kryteria
+- GenerateGraph2.cpp -----> Zachłannie generuje pierwszy znaleziony graf spełniający kryteria
+- GenerateGraphRand.cpp -----> Zachłannie ulosowiony generuje znaleziony graf spełniający kryteria
+- json.hpp ----> Wymagana biblioteka do obsługi plików JSON
+- JSON
+- - Degree.json ----> Przykłaowe dane wejściowe wygenerowane przez program GenerateDegree.cpp
+- 
