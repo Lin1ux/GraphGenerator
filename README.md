@@ -15,3 +15,4 @@
   - Graph4.json ----> Przykłaowe dane wyjściowe wygenerowane przez program GenerateOneGraph2.cpp
   - Graph5.json ----> Przykłaowe dane wyjściowe wygenerowane przez program GenerateGraphRand.cpp
   - Graph6.json ----> Przykłaowe dane wyjściowe wygenerowane przez program GenerateOneGraphRand.cpp
+  - Testowane Grafy ----> zawierają dane, które użyte do pomiarów
